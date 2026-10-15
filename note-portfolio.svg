@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 190" width="400" height="190" role="img" aria-label="curllmooha.com: walk my 3d portfolio">
+<defs><filter id="sh" x="-10%" y="-10%" width="130%" height="140%"><feDropShadow dx="2" dy="5" stdDeviation="4" flood-color="#000" flood-opacity=".4"/></filter>
+<linearGradient id="curl" x1="0" y1="0" x2="1" y2="1"><stop offset=".6" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".12"/></linearGradient>
+<style>.n{animation:sw 5s ease-in-out infinite alternate;transform-box:fill-box;transform-origin:top center}@keyframes sw{from{transform:rotate(-3.2deg)}to{transform:rotate(-0.8deg)}}
+.h{font-family:'Marker Felt','Bradley Hand','Segoe Print','Comic Sans MS',cursive}.d{animation:dd 4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes dd{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
+<g class="n"><g filter="url(#sh)"><rect x="40" y="22" width="320" height="150" fill="#ffe680"/></g>
+<rect x="40" y="22" width="320" height="150" fill="url(#curl)"/>
+<rect x="165" y="12" width="70" height="20" fill="#fff" opacity=".45" transform="rotate(-3 200 22)"/>
+<text class="h" x="64" y="66" style="font-size:17px;fill:#1d2f6b;opacity:.75">the portfolio</text>
+<text class="h" x="64" y="108" style="font-size:30px;fill:#1d2f6b">walk my 3d world</text>
+<path d="M64 120 q90 8 190 -3" stroke="#1d2f6b" stroke-width="2" fill="none" stroke-linecap="round" opacity=".8"/>
+<text class="h" x="64" y="150" style="font-size:15px;fill:#1d2f6b;opacity:.7">curllmooha.com →</text>
+<g transform="translate(300 80)"><g class="d"><g fill="none" stroke="#1d3f8a" stroke-width="2" stroke-linejoin="round"><path d="M-16 -6 L0 -14 L16 -6 L16 12 L0 20 L-16 12Z"/><path d="M-16 -6 L0 2 L16 -6 M0 2 V20"/></g></g></g></g></svg>

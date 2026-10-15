@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 64" width="150" height="64" role="img" aria-label="instagram">
+<defs><filter id="sh" x="-10%" y="-20%" width="130%" height="160%"><feDropShadow dx="1" dy="3" stdDeviation="2.5" flood-color="#000" flood-opacity=".4"/></filter></defs>
+<g transform="rotate(3 75 32)"><g filter="url(#sh)"><path d="M14 12 H140 V52 H14 L4 32Z" fill="#ffd6e8"/></g>
+<circle cx="18" cy="32" r="3.5" fill="#0d1117" opacity=".55"/>
+<text x="80" y="39" text-anchor="middle" style="font:400 17px 'Marker Felt','Bradley Hand','Segoe Print','Comic Sans MS',cursive;fill:#7a1f55">instagram</text></g></svg>
